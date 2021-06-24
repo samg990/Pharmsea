@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pharmsea-dev-162200-authRole",
+      "UnauthRoleArn": "arn:aws:iam::643700062729:role/amplify-pharmsea-dev-162200-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::643700062729:role/amplify-pharmsea-dev-162200-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-pharmsea-dev-162200-deployment",
+      "UnauthRoleName": "amplify-pharmsea-dev-162200-unauthRole",
+      "StackName": "amplify-pharmsea-dev-162200",
+      "StackId": "arn:aws:cloudformation:us-west-2:643700062729:stack/amplify-pharmsea-dev-162200/ff661ec0-cbd4-11eb-a5f6-0aadbe22dab3",
+      "AmplifyAppId": "d2crrc6zmm9rjh"
+    },
+    "categories": {
+      "auth": {
+        "pharmseab491667b": {}
+      }
+    }
+  }
+}
